@@ -1,6 +1,6 @@
-##Tạo file env và cấu hình database
+##Config .env
 
-##Chạy lệnh
+##Run init
 ```bash
 - composer install
 - php artisan migrate
